@@ -2,7 +2,7 @@ asgiref==3.8.1
 certifi==2024.8.30
 charset-normalizer==3.4.0
 colorama==0.4.6
-contourpy==1.2.1
+contourpy==1.1.1
 cycler==0.12.1
 Django==5.0.4
 filelock==3.14.0
